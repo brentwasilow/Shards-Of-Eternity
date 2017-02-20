@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.btwasilow</groupId>
-  <artifactId>Shards-Of-Eternity</artifactId>
+  <artifactId>shardsofeternity</artifactId>
   <version>0.0.1</version>
   <packaging>jar</packaging>
 
@@ -33,7 +33,7 @@
     </plugins>
   </build>
 
-  <name>Shards-Of-Eternity</name>
+  <name>shardsofeternity</name>
   <url>http://maven.apache.org</url>
 
   <properties>
